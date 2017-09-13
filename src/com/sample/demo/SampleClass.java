@@ -6,7 +6,7 @@ public class SampleClass {
 		// TODO Auto-generated method stubs
 		
 		System.out.println("Hello world");
-
+		System.out.println("Print added in new branch");
 	}
 
 }
